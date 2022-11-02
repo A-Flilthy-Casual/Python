@@ -6,9 +6,12 @@
 #they are students and active both of which are arrays
 data = {
     "students":["Roman Sanchez","Roman Sanchez","Jeorge Vasquez","Jeorge Vasquez"],
-    "active":[True,True, True, True]
+    "active":[True,True, True, True],
+    
+    
     
 }
+print("other")
 #add to the dictonary a new key called usernames to Store
 #usernames in a array also known as a list in python
 data["usernames"]=[]
