@@ -8,6 +8,7 @@ from typing import Tuple
 # A function for storyline progression
 def pause()->None:
     j=input("Press Enter key to continue the epic story...")
+    print("Some changes to dev1")
     print(j)
 
 
