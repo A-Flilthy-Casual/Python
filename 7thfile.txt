@@ -1,1 +1,2 @@
 Some text for the 7th commit
+Even more text for the last commit (that is number 8)
