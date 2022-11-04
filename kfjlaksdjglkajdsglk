@@ -1,0 +1,47 @@
+[33mcommit 2fd585680197e176143482b07088c444dda3c814[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Roman <235roman@gmail.com>
+Date:   Fri Nov 4 13:51:12 2022 +0100
+
+    The infamous 8th commit
+
+[33mcommit f2923bdcbf708a3edcc1d88bcd920c0b59c7eccc[m
+Author: Roman <235roman@gmail.com>
+Date:   Fri Nov 4 13:49:52 2022 +0100
+
+    7th Co-mmit
+
+[33mcommit 3385a20b82dd03ffd47c7313f58d7de3f7413b91[m
+Author: Roman <235roman@gmail.com>
+Date:   Fri Nov 4 13:48:43 2022 +0100
+
+    sixth commit
+
+[33mcommit 17003614185173975698116dad34e7f35aa98fbc[m[33m ([m[1;32mdev2[m[33m)[m
+Author: Roman <235roman@gmail.com>
+Date:   Wed Nov 2 16:37:56 2022 +0100
+
+    fifth commit
+
+[33mcommit 750cfdd730974d64d378b06519b4e226d5dc7017[m[33m ([m[1;32mdev1[m[33m)[m
+Author: Roman <235roman@gmail.com>
+Date:   Wed Nov 2 16:32:56 2022 +0100
+
+    fourth dev commit, it's in dev1
+
+[33mcommit ba5d62b1840f0169dc8ab0039389a1ab7ba4a957[m
+Author: Roman <235roman@gmail.com>
+Date:   Wed Nov 2 16:30:31 2022 +0100
+
+    My third commit, 1st to dev1
+
+[33mcommit bdbc4691ae0cb5b856f64362aaf4fba6322da296[m
+Author: Roman <235roman@gmail.com>
+Date:   Wed Nov 2 16:24:18 2022 +0100
+
+    This is my second commit
+
+[33mcommit 1fdc5065a4ec808959d386dbb4de5d51ce996f8a[m
+Author: Roman <235roman@gmail.com>
+Date:   Wed Nov 2 16:18:39 2022 +0100
+
+    Initial commit
